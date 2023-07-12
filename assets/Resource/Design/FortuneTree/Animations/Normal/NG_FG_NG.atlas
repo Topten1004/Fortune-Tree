@@ -1,0 +1,97 @@
+
+NG_FG_NG.png
+size: 1246,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/B4
+  rotate: true
+  xy: 570, 54
+  size: 224, 183
+  orig: 230, 210
+  offset: 0, 3
+  index: -1
+images/Y2_9
+  rotate: false
+  xy: 472, 3
+  size: 91, 47
+  orig: 92, 48
+  offset: 1, 0
+  index: -1
+images/YL3_8
+  rotate: false
+  xy: 472, 3
+  size: 91, 47
+  orig: 92, 48
+  offset: 1, 0
+  index: -1
+images/Y3_11
+  rotate: true
+  xy: 2, 2
+  size: 276, 274
+  orig: 280, 300
+  offset: 2, 4
+  index: -1
+images/Y4_12
+  rotate: true
+  xy: 278, 45
+  size: 233, 192
+  orig: 240, 220
+  offset: 0, 4
+  index: -1
+images/Y5_5
+  rotate: true
+  xy: 472, 52
+  size: 226, 96
+  orig: 250, 130
+  offset: 5, 4
+  index: -1
+images/YL1_2
+  rotate: false
+  xy: 1099, 41
+  size: 145, 92
+  orig: 148, 93
+  offset: 3, 0
+  index: -1
+images/YL2_4
+  rotate: false
+  xy: 755, 13
+  size: 122, 53
+  orig: 124, 54
+  offset: 2, 0
+  index: -1
+images/YL4_10
+  rotate: true
+  xy: 1044, 135
+  size: 143, 190
+  orig: 180, 220
+  offset: 0, 1
+  index: -1
+images/YR1_1
+  rotate: true
+  xy: 755, 68
+  size: 210, 96
+  orig: 216, 96
+  offset: 6, 0
+  index: -1
+images/YR2_3
+  rotate: true
+  xy: 1044, 12
+  size: 121, 53
+  orig: 124, 54
+  offset: 0, 0
+  index: -1
+images/YR3_6
+  rotate: false
+  xy: 565, 5
+  size: 90, 45
+  orig: 92, 45
+  offset: 2, 0
+  index: -1
+images/YR4_7
+  rotate: true
+  xy: 853, 78
+  size: 200, 189
+  orig: 210, 210
+  offset: 10, 5
+  index: -1

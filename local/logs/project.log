@@ -1,0 +1,83 @@
+2021-08-25T01:06:19.336Z - normal: Load ~/.CocosCreator/settings.json
+2021-08-25T01:06:19.372Z - normal: Initializing Asset Database
+2021-08-25T01:06:19.389Z - normal: checking language setting...
+2021-08-25T01:06:19.389Z - normal: Language: en
+2021-08-25T01:06:19.925Z - success: protocol editor-framework registered
+2021-08-25T01:06:19.925Z - success: protocol app registered
+2021-08-25T01:06:19.925Z - success: protocol theme registered
+2021-08-25T01:06:19.925Z - success: protocol packages registered
+2021-08-25T01:06:19.925Z - success: protocol uuid registerred
+2021-08-25T01:06:19.925Z - success: protocol db registerred
+2021-08-25T01:06:19.925Z - success: protocol thumbnail registerred
+2021-08-25T01:06:19.925Z - success: protocol unpack registerred
+2021-08-25T01:06:19.925Z - success: protocol disable-commonjs registerred
+2021-08-25T01:06:20.057Z - normal: connected!
+2021-08-25T01:06:20.058Z - normal: Check project F:\Cocos\CocosCreator\NYGaming\MustangKing\MustangKing
+2021-08-25T01:06:20.059Z - normal: Initializing project F:\Cocos\CocosCreator\NYGaming\MustangKing\MustangKing
+2021-08-25T01:06:20.160Z - success: adapters loaded
+2021-08-25T01:06:20.162Z - success: asset-db-debugger loaded
+2021-08-25T01:06:20.199Z - success: fb-audience-network loaded
+2021-08-25T01:06:20.215Z - success: fb-live-stream loaded
+2021-08-25T01:06:20.217Z - success: google-play-instant loaded
+2021-08-25T01:06:20.217Z - success: jsb-adapter loaded
+2021-08-25T01:06:20.219Z - success: package-manager loaded
+2021-08-25T01:06:20.219Z - success: runtime-adapters loaded
+2021-08-25T01:06:20.220Z - success: runtime-dev-tools loaded
+2021-08-25T01:06:20.221Z - success: ui-kit-preview-extra loaded
+2021-08-25T01:06:20.222Z - success: ui-kit-preview loaded
+2021-08-25T01:06:20.248Z - success: alipay-minigame loaded
+2021-08-25T01:06:20.288Z - success: assets loaded
+2021-08-25T01:06:20.289Z - success: baidugame-opendata loaded
+2021-08-25T01:06:20.290Z - success: baidugame loaded
+2021-08-25T01:06:20.291Z - success: builder loaded
+2021-08-25T01:06:20.292Z - success: bytedance-opendata loaded
+2021-08-25T01:06:20.293Z - success: bytedance loaded
+2021-08-25T01:06:20.294Z - success: channel-upload-tools loaded
+2021-08-25T01:06:20.296Z - success: cloud-function loaded
+2021-08-25T01:06:20.383Z - success: cocos-services loaded
+2021-08-25T01:06:20.385Z - success: console loaded
+2021-08-25T01:06:20.386Z - success: curve-editor loaded
+2021-08-25T01:06:20.393Z - success: fb-instant-games loaded
+2021-08-25T01:06:20.394Z - success: game-window loaded
+2021-08-25T01:06:20.394Z - success: google-instant-games loaded
+2021-08-25T01:06:20.396Z - success: hierarchy loaded
+2021-08-25T01:06:20.397Z - success: huawei-agc loaded
+2021-08-25T01:06:20.398Z - success: huawei-runtime loaded
+2021-08-25T01:06:20.399Z - success: inspector loaded
+2021-08-25T01:06:20.408Z - success: cpk-publish loaded
+2021-08-25T01:06:20.408Z - success: keystore loaded
+2021-08-25T01:06:20.418Z - success: link-sure-runtime loaded
+2021-08-25T01:06:20.423Z - success: node-library loaded
+2021-08-25T01:06:20.423Z - success: open-recent-items loaded
+2021-08-25T01:06:20.424Z - success: oppo-runtime loaded
+2021-08-25T01:06:20.425Z - success: package-asset loaded
+2021-08-25T01:06:20.425Z - success: preferences loaded
+2021-08-25T01:06:20.426Z - success: project-importer loaded
+2021-08-25T01:06:20.427Z - success: project-settings loaded
+2021-08-25T01:06:20.435Z - success: qtt-runtime loaded
+2021-08-25T01:06:20.436Z - success: scene loaded
+2021-08-25T01:06:20.437Z - success: simulator-debugger loaded
+2021-08-25T01:06:20.437Z - success: sprite-editor loaded
+2021-08-25T01:06:20.457Z - success: store loaded
+2021-08-25T01:06:20.458Z - success: timeline loaded
+2021-08-25T01:06:20.460Z - success: vivo-runtime loaded
+2021-08-25T01:06:20.461Z - success: wechatgame-opendata loaded
+2021-08-25T01:06:20.463Z - success: wechatgame loaded
+2021-08-25T01:06:20.466Z - success: xiaomi-runtime loaded
+2021-08-25T01:06:20.467Z - success: im-plugin loaded
+2021-08-25T01:06:20.469Z - warn: The current '7456' preview port is already occupied, the port is automatically incremented
+2021-08-25T01:06:20.471Z - success: preview server running at http://localhost:7457
+2021-08-25T01:06:21.696Z - info: Cocos Service load base data!
+2021-08-25T01:06:27.416Z - normal: Initializing Cocos2d
+2021-08-25T01:06:27.629Z - normal: Initializing engine extends
+2021-08-25T01:06:32.124Z - failed: [db-task][init] Failed to import asset F:\Cocos\CocosCreator\NYGaming\MustangKing\MustangKing\assets\Resource\Data\MustangKing\Animation\NG_SC_lan.json, message: SyntaxError: F:\Cocos\CocosCreator\NYGaming\MustangKing\MustangKing\assets\Resource\Data\MustangKing\Animation\NG_SC_lan.json: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at C:\CocosDashboard_1.0.11\resources\.editors\Creator\2.4.3\resources\app.asar\node_modules\fire-fs\node_modules\jsonfile\index.js:36:18
+    at C:\CocosDashboard_1.0.11\resources\.editors\Creator\2.4.3\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:123:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:54:3)
+2021-08-25T01:06:33.131Z - normal: Loading packages
+2021-08-25T01:06:33.133Z - normal: Watching packages
+2021-08-25T01:06:33.157Z - normal: Run Application
+2021-08-25T03:04:10.291Z - warn: Should not set alpha via 'color', set 'opacity' please.
+2021-08-25T03:04:10.305Z - warn: Should not set alpha via 'color', set 'opacity' please.
+2021-08-25T03:04:16.666Z - info: shutdown preview server

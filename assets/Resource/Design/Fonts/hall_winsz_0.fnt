@@ -1,0 +1,20 @@
+info face="Tahoma" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=150 base=27 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="hall_winsz_0.png"
+chars count=16
+char id=44   x=475   y=151   width=32    height=150   xoffset=0     yoffset=0     xadvance=32    page=0  chnl=15
+char id=46   x=379   y=302   width=31    height=150   xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=48   x=306   y=0     width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=49   x=401   y=0     width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=50   x=0     y=151   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=51   x=95    y=151   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=52   x=190   y=151   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=53   x=285   y=151   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=54   x=380   y=151   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=55   x=0     y=302   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=56   x=95    y=302   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=57   x=190   y=302   width=94    height=150   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=66   x=210   y=0     width=95    height=150   xoffset=0     yoffset=0     xadvance=95    page=0  chnl=15
+char id=75   x=109   y=0     width=100   height=150   xoffset=0     yoffset=0     xadvance=100   page=0  chnl=15
+char id=77   x=0     y=0     width=108   height=150   xoffset=0     yoffset=0     xadvance=108   page=0  chnl=15
+char id=84   x=285   y=302   width=93    height=150   xoffset=0     yoffset=0     xadvance=93    page=0  chnl=15

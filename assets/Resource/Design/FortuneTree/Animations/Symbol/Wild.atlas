@@ -1,0 +1,265 @@
+
+Wild.png
+size: 945,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/G1
+  rotate: false
+  xy: 152, 136
+  size: 128, 102
+  orig: 130, 130
+  offset: 0, 27
+  index: -1
+images/G2
+  rotate: false
+  xy: 2, 5
+  size: 77, 52
+  orig: 80, 56
+  offset: 1, 1
+  index: -1
+images/X/X_000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/X/X_001
+  rotate: false
+  xy: 307, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_002
+  rotate: false
+  xy: 395, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_003
+  rotate: false
+  xy: 483, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_004
+  rotate: false
+  xy: 571, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_005
+  rotate: false
+  xy: 659, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_006
+  rotate: false
+  xy: 747, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_007
+  rotate: false
+  xy: 152, 49
+  size: 86, 85
+  orig: 86, 86
+  offset: 0, 1
+  index: -1
+images/X/X_008
+  rotate: false
+  xy: 835, 271
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_009
+  rotate: false
+  xy: 240, 48
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_010
+  rotate: false
+  xy: 307, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_011
+  rotate: false
+  xy: 395, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_012
+  rotate: false
+  xy: 483, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_013
+  rotate: true
+  xy: 856, 95
+  size: 86, 85
+  orig: 86, 86
+  offset: 0, 1
+  index: -1
+images/X/X_014
+  rotate: false
+  xy: 571, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_015
+  rotate: false
+  xy: 659, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_016
+  rotate: false
+  xy: 328, 10
+  size: 86, 83
+  orig: 86, 86
+  offset: 0, 3
+  index: -1
+images/X/X_017
+  rotate: false
+  xy: 747, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_018
+  rotate: false
+  xy: 835, 183
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_019
+  rotate: false
+  xy: 328, 95
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_020
+  rotate: false
+  xy: 416, 95
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_021
+  rotate: false
+  xy: 504, 95
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_022
+  rotate: false
+  xy: 592, 95
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_023
+  rotate: false
+  xy: 680, 95
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_024
+  rotate: false
+  xy: 768, 95
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_025
+  rotate: false
+  xy: 416, 7
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_026
+  rotate: false
+  xy: 504, 7
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_027
+  rotate: false
+  xy: 592, 7
+  size: 84, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/X/X_028
+  rotate: false
+  xy: 678, 9
+  size: 86, 84
+  orig: 86, 86
+  offset: 0, 2
+  index: -1
+images/X/X_029
+  rotate: false
+  xy: 766, 17
+  size: 86, 76
+  orig: 86, 86
+  offset: 0, 10
+  index: -1
+images/w1
+  rotate: true
+  xy: 934, 24
+  size: 69, 9
+  orig: 160, 160
+  offset: 44, 36
+  index: -1
+images/w2
+  rotate: false
+  xy: 152, 240
+  size: 153, 117
+  orig: 154, 118
+  offset: 0, 1
+  index: -1
+images/w3
+  rotate: false
+  xy: 854, 65
+  size: 78, 28
+  orig: 160, 160
+  offset: 40, 16
+  index: -1
+images/w4
+  rotate: false
+  xy: 2, 209
+  size: 148, 148
+  orig: 160, 160
+  offset: 6, 6
+  index: -1
+images/w5
+  rotate: false
+  xy: 2, 59
+  size: 148, 148
+  orig: 160, 160
+  offset: 6, 6
+  index: -1

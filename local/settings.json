@@ -1,0 +1,7 @@
+{
+  "use-global-engine-setting": true,
+  "use-default-js-engine": true,
+  "js-engine-path": "",
+  "use-default-cpp-engine": true,
+  "cpp-engine-path": ""
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "JP_Right_Move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.18333333333333332,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 325
+        }
+      ]
+    }
+  },
+  "events": []
+}

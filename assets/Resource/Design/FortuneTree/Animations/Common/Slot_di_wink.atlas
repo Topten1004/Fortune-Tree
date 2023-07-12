@@ -1,0 +1,153 @@
+
+Slot_di_wink.png
+size: 823,823
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 765
+  size: 488, 56
+  orig: 720, 250
+  offset: 117, 153
+  index: -1
+lizi/lizi_00
+  rotate: false
+  xy: 393, 164
+  size: 270, 90
+  orig: 720, 250
+  offset: 109, 152
+  index: -1
+lizi/lizi_01
+  rotate: true
+  xy: 200, 186
+  size: 276, 95
+  orig: 720, 250
+  offset: 109, 151
+  index: -1
+lizi/lizi_02
+  rotate: true
+  xy: 2, 186
+  size: 276, 97
+  orig: 720, 250
+  offset: 109, 151
+  index: -1
+lizi/lizi_03
+  rotate: false
+  xy: 2, 665
+  size: 278, 98
+  orig: 720, 250
+  offset: 109, 151
+  index: -1
+lizi/lizi_04
+  rotate: false
+  xy: 492, 728
+  size: 277, 93
+  orig: 720, 250
+  offset: 110, 152
+  index: -1
+lizi/lizi_05
+  rotate: false
+  xy: 2, 90
+  size: 279, 94
+  orig: 720, 250
+  offset: 109, 151
+  index: -1
+lizi/lizi_06
+  rotate: true
+  xy: 381, 486
+  size: 277, 96
+  orig: 720, 250
+  offset: 109, 151
+  index: -1
+lizi/lizi_07
+  rotate: false
+  xy: 479, 632
+  size: 277, 94
+  orig: 720, 250
+  offset: 112, 152
+  index: -1
+lizi/lizi_08
+  rotate: false
+  xy: 479, 536
+  size: 277, 94
+  orig: 720, 250
+  offset: 112, 153
+  index: -1
+lizi/lizi_09
+  rotate: true
+  xy: 101, 186
+  size: 276, 97
+  orig: 720, 250
+  offset: 113, 152
+  index: -1
+lizi/lizi_10
+  rotate: false
+  xy: 2, 565
+  size: 276, 98
+  orig: 720, 250
+  offset: 113, 152
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 2, 464
+  size: 275, 99
+  orig: 720, 250
+  offset: 114, 151
+  index: -1
+lizi/lizi_12
+  rotate: false
+  xy: 283, 73
+  size: 272, 89
+  orig: 720, 250
+  offset: 115, 152
+  index: -1
+lizi/lizi_13
+  rotate: false
+  xy: 479, 444
+  size: 273, 90
+  orig: 720, 250
+  offset: 116, 154
+  index: -1
+lizi/lizi_14
+  rotate: false
+  xy: 393, 351
+  size: 271, 91
+  orig: 720, 250
+  offset: 117, 155
+  index: -1
+lizi/lizi_15
+  rotate: false
+  xy: 393, 256
+  size: 269, 93
+  orig: 720, 250
+  offset: 119, 152
+  index: -1
+lizi/lizi_16
+  rotate: true
+  xy: 297, 215
+  size: 269, 94
+  orig: 720, 250
+  offset: 119, 151
+  index: -1
+lizi/lizi_17
+  rotate: true
+  xy: 282, 494
+  size: 269, 97
+  orig: 720, 250
+  offset: 113, 151
+  index: -1
+lizi/lizi_18
+  rotate: true
+  xy: 666, 174
+  size: 268, 91
+  orig: 720, 250
+  offset: 113, 151
+  index: -1
+lizi/lizi_19
+  rotate: false
+  xy: 2, 2
+  size: 271, 86
+  orig: 720, 250
+  offset: 110, 152
+  index: -1

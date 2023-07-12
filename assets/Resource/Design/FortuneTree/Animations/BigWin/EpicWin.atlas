@@ -1,0 +1,76 @@
+
+EpicWin.png
+size: 873,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Epic
+  rotate: false
+  xy: 2, 193
+  size: 418, 193
+  orig: 419, 193
+  offset: 0, 0
+  index: -1
+Win
+  rotate: false
+  xy: 2, 2
+  size: 373, 189
+  orig: 373, 189
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 422, 130
+  size: 257, 256
+  orig: 257, 256
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 377, 151
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+xx1
+  rotate: false
+  xy: 377, 33
+  size: 256, 95
+  orig: 256, 95
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 681, 133
+  size: 253, 133
+  orig: 253, 133
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 681, 83
+  size: 175, 48
+  orig: 175, 48
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 635, 47
+  size: 216, 34
+  orig: 216, 34
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 635, 2
+  size: 192, 43
+  orig: 192, 43
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: true
+  xy: 816, 180
+  size: 206, 55
+  orig: 206, 55
+  offset: 0, 0
+  index: -1

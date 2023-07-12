@@ -1,0 +1,314 @@
+
+Jackpot_M.png
+size: 1696,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Jackpotk_G2/Jackpot_G2_000
+  rotate: false
+  xy: 842, 551
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_013
+  rotate: false
+  xy: 842, 551
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_000
+  rotate: false
+  xy: 842, 551
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_029
+  rotate: false
+  xy: 842, 551
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_001
+  rotate: true
+  xy: 845, 281
+  size: 90, 274
+  orig: 90, 360
+  offset: 0, 43
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_002
+  rotate: true
+  xy: 845, 189
+  size: 90, 332
+  orig: 90, 360
+  offset: 0, 14
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_003
+  rotate: true
+  xy: 472, 152
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_004
+  rotate: true
+  xy: 472, 60
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_005
+  rotate: true
+  xy: 834, 97
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_006
+  rotate: true
+  xy: 834, 5
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_007
+  rotate: false
+  xy: 1237, 236
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_008
+  rotate: false
+  xy: 1329, 236
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_009
+  rotate: false
+  xy: 1421, 146
+  size: 89, 360
+  orig: 90, 360
+  offset: 1, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_010
+  rotate: false
+  xy: 1512, 146
+  size: 84, 360
+  orig: 90, 360
+  offset: 4, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_011
+  rotate: false
+  xy: 1598, 147
+  size: 82, 359
+  orig: 90, 360
+  offset: 6, 0
+  index: -1
+images/Jackpotk_G2/Jackpot_G2_012
+  rotate: true
+  xy: 1282, 18
+  size: 67, 352
+  orig: 90, 360
+  offset: 13, 3
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_001
+  rotate: false
+  xy: 1118, 686
+  size: 49, 78
+  orig: 380, 290
+  offset: 12, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_002
+  rotate: false
+  xy: 1121, 289
+  size: 75, 111
+  orig: 380, 290
+  offset: 9, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_003
+  rotate: false
+  xy: 1282, 87
+  size: 99, 147
+  orig: 380, 290
+  offset: 0, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_004
+  rotate: false
+  xy: 1120, 402
+  size: 115, 194
+  orig: 380, 290
+  offset: 0, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_005
+  rotate: false
+  xy: 341, 43
+  size: 129, 229
+  orig: 380, 290
+  offset: 4, 8
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_006
+  rotate: true
+  xy: 577, 377
+  size: 164, 266
+  orig: 380, 290
+  offset: 4, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_007
+  rotate: true
+  xy: 1169, 598
+  size: 186, 267
+  orig: 380, 290
+  offset: 3, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_008
+  rotate: false
+  xy: 1438, 508
+  size: 210, 267
+  orig: 380, 290
+  offset: 4, 23
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_009
+  rotate: true
+  xy: 308, 545
+  size: 230, 267
+  orig: 380, 290
+  offset: 0, 23
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_010
+  rotate: true
+  xy: 1169, 786
+  size: 244, 268
+  orig: 380, 290
+  offset: 0, 22
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_011
+  rotate: true
+  xy: 900, 766
+  size: 264, 267
+  orig: 380, 290
+  offset: 0, 23
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_012
+  rotate: false
+  xy: 329, 777
+  size: 290, 253
+  orig: 380, 290
+  offset: 1, 23
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_013
+  rotate: false
+  xy: 2, 527
+  size: 304, 253
+  orig: 380, 290
+  offset: 14, 23
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_014
+  rotate: false
+  xy: 2, 782
+  size: 325, 248
+  orig: 380, 290
+  offset: 17, 22
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_015
+  rotate: false
+  xy: 2, 266
+  size: 290, 259
+  orig: 380, 290
+  offset: 73, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_016
+  rotate: false
+  xy: 621, 773
+  size: 277, 257
+  orig: 380, 290
+  offset: 93, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_017
+  rotate: true
+  xy: 1439, 777
+  size: 253, 255
+  orig: 380, 290
+  offset: 117, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_018
+  rotate: false
+  xy: 2, 2
+  size: 241, 262
+  orig: 380, 290
+  offset: 135, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_019
+  rotate: true
+  xy: 577, 543
+  size: 228, 263
+  orig: 380, 290
+  offset: 152, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_020
+  rotate: true
+  xy: 842, 554
+  size: 210, 274
+  orig: 380, 290
+  offset: 170, 0
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_021
+  rotate: true
+  xy: 845, 373
+  size: 179, 273
+  orig: 380, 290
+  offset: 201, 2
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_022
+  rotate: true
+  xy: 308, 387
+  size: 156, 267
+  orig: 380, 290
+  offset: 224, 9
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_023
+  rotate: true
+  xy: 565, 244
+  size: 131, 278
+  orig: 380, 290
+  offset: 249, 12
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_024
+  rotate: true
+  xy: 294, 274
+  size: 111, 269
+  orig: 380, 290
+  offset: 267, 21
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_025
+  rotate: false
+  xy: 245, 13
+  size: 94, 251
+  orig: 380, 290
+  offset: 284, 39
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_026
+  rotate: false
+  xy: 1196, 17
+  size: 84, 217
+  orig: 380, 290
+  offset: 296, 73
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_027
+  rotate: true
+  xy: 1421, 87
+  size: 57, 178
+  orig: 380, 290
+  offset: 323, 112
+  index: -1
+images/Jackpotk_SG/Jackpotk_SG_028
+  rotate: false
+  xy: 1383, 106
+  size: 36, 128
+  orig: 380, 290
+  offset: 343, 149
+  index: -1

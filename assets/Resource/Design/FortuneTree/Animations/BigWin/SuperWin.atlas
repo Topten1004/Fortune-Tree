@@ -1,0 +1,76 @@
+
+SuperWin.png
+size: 978,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Super
+  rotate: false
+  xy: 2, 193
+  size: 593, 214
+  orig: 594, 214
+  offset: 1, 0
+  index: -1
+Win
+  rotate: false
+  xy: 2, 2
+  size: 373, 189
+  orig: 373, 189
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 597, 151
+  size: 286, 256
+  orig: 286, 256
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 885, 159
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+xx1
+  rotate: false
+  xy: 632, 54
+  size: 256, 95
+  orig: 256, 95
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 377, 13
+  size: 253, 133
+  orig: 253, 133
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 632, 4
+  size: 175, 48
+  orig: 175, 48
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: true
+  xy: 942, 191
+  size: 216, 34
+  orig: 216, 34
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 377, 148
+  size: 192, 43
+  orig: 192, 43
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: true
+  xy: 885, 201
+  size: 206, 55
+  orig: 206, 55
+  offset: 0, 0
+  index: -1

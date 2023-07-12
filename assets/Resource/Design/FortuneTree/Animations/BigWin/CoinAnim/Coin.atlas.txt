@@ -1,0 +1,146 @@
+
+Coin.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_00
+  rotate: false
+  xy: 2, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+coin_01
+  rotate: false
+  xy: 684, 2
+  size: 220, 228
+  orig: 220, 228
+  offset: 0, 0
+  index: -1
+coin_02
+  rotate: true
+  xy: 1350, 34
+  size: 196, 232
+  orig: 196, 232
+  offset: 0, 0
+  index: -1
+coin_03
+  rotate: true
+  xy: 2286, 74
+  size: 156, 232
+  orig: 156, 232
+  offset: 0, 0
+  index: -1
+coin_04
+  rotate: true
+  xy: 3222, 134
+  size: 96, 236
+  orig: 96, 236
+  offset: 0, 0
+  index: -1
+coin_05
+  rotate: true
+  xy: 3460, 92
+  size: 40, 236
+  orig: 40, 236
+  offset: 0, 0
+  index: -1
+coin_06
+  rotate: true
+  xy: 3460, 134
+  size: 96, 236
+  orig: 96, 236
+  offset: 0, 0
+  index: -1
+coin_07
+  rotate: true
+  xy: 2520, 74
+  size: 156, 232
+  orig: 156, 232
+  offset: 0, 0
+  index: -1
+coin_08
+  rotate: true
+  xy: 1584, 34
+  size: 196, 232
+  orig: 196, 232
+  offset: 0, 0
+  index: -1
+coin_09
+  rotate: false
+  xy: 906, 2
+  size: 220, 228
+  orig: 220, 228
+  offset: 0, 0
+  index: -1
+coin_10
+  rotate: false
+  xy: 232, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+coin_11
+  rotate: false
+  xy: 1128, 2
+  size: 220, 228
+  orig: 220, 228
+  offset: 0, 0
+  index: -1
+coin_12
+  rotate: true
+  xy: 1818, 34
+  size: 196, 232
+  orig: 196, 232
+  offset: 0, 0
+  index: -1
+coin_13
+  rotate: true
+  xy: 2754, 74
+  size: 156, 232
+  orig: 156, 232
+  offset: 0, 0
+  index: -1
+coin_14
+  rotate: true
+  xy: 3698, 134
+  size: 96, 236
+  orig: 96, 236
+  offset: 0, 0
+  index: -1
+coin_15
+  rotate: true
+  xy: 3460, 50
+  size: 40, 236
+  orig: 40, 236
+  offset: 0, 0
+  index: -1
+coin_16
+  rotate: true
+  xy: 3222, 36
+  size: 96, 236
+  orig: 96, 236
+  offset: 0, 0
+  index: -1
+coin_17
+  rotate: true
+  xy: 2988, 74
+  size: 156, 232
+  orig: 156, 232
+  offset: 0, 0
+  index: -1
+coin_18
+  rotate: true
+  xy: 2052, 34
+  size: 196, 232
+  orig: 196, 232
+  offset: 0, 0
+  index: -1
+coin_19
+  rotate: false
+  xy: 462, 2
+  size: 220, 228
+  orig: 220, 228
+  offset: 0, 0
+  index: -1

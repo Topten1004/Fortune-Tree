@@ -1,0 +1,76 @@
+
+UltimateWin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ultimate
+  rotate: false
+  xy: 2, 260
+  size: 720, 227
+  orig: 721, 228
+  offset: 0, 1
+  index: -1
+Win
+  rotate: false
+  xy: 2, 69
+  size: 373, 189
+  orig: 373, 189
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 377, 2
+  size: 303, 256
+  orig: 304, 256
+  offset: 1, 0
+  index: -1
+star
+  rotate: false
+  xy: 968, 447
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+xx1
+  rotate: false
+  xy: 724, 257
+  size: 245, 95
+  orig: 245, 95
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 724, 354
+  size: 242, 133
+  orig: 242, 133
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 201, 19
+  size: 168, 48
+  orig: 168, 48
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: true
+  xy: 682, 51
+  size: 207, 34
+  orig: 207, 34
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 718, 212
+  size: 184, 43
+  orig: 184, 43
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: false
+  xy: 2, 12
+  size: 197, 55
+  orig: 197, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,63 @@
+module.exports = {    
+    "NetworkError" : "Please check your network",
+    "logouted" : "Session is logouted",
+    "login"     : "Please login",
+    "noBalance"     : "There is no credit, please deposit!",
+    
+    "Common" : {
+        "AUTOPLAY"  : "AUTO PLAY",
+        "BET"       : "BET",
+        "CREDIT"    : "CREDIT",
+        "TOTALBET"  : "TOTAL BET",
+        "WIN"       : "WIN",
+        "AutoPlaySetting"   : "AUTOPLAY SETTING",
+        "OnAnyWin"  : "On any win",
+        "FreespinWin"       : "If free spins are won",
+        "Ok"        : "OK",
+        "Cancel"    : "CANCEL",
+        "CoinValue" : "COIN VALUE",
+        "BackToGame"        : "BACK TO GAME"
+    },
+    "Game" : {
+        "FREESPINSLEFT"     : "FREE SPINS LEFT ",
+        "AUTOSPINSLEFT"     : "AUTO SPINS LEFT ",
+        "Goodluck"          : "Good luck!",
+        "WinResult"         : "You win {win} in line {line}",
+        "PleasePlaceBet"    : "Please place a Bet",
+        "Win"               : "Win",
+        "Anywayclick"       : "CLICK ANYWHERE TO CONTINUE",
+        "FreeSpin"          : "FREE SPINS",
+        "YouHaveCompleted"  : "YOU HAVE COMPLETED",
+        "FreeSpinYouHaveWon": "FREE SPINS AND YOU HAVE WON",
+        "ForExtraWin"       : "FOR EXTRA WINS!",
+        "Congratulation"    : "CONGRATULATION!",
+        "Extra"             : "EXTRA",
+        "AreNow"            : "ARE NOW",
+        "YouHaveWon"        : "YOU HAVE WON"
+    },
+    "Help" : {
+        "Help_01_01":"GAME RULES",
+        "Help_01_02":"All symbols pay left to right on adjacent reels starting from the leftmost reel.",
+        "Help_01_03":"This symbol is WILD and substitutes for all symbols except for BONUS, MONEY SYMBOL and COLLECT.\r\nWILD symbol appears on reels 2, 3, 4 and 5.",
+        "Help_01_04":"This symbol is BONUS and\r\nappears on reels 2, 3 and 4. 3x BONUS symbols pay 1x total bet.\r\n3x BONUS symbols awards 8 free spins.",
+
+        "Help_02_01":"MONEY COLLECT FEATURE",
+        "Help_02_02":"This is the MONEY SYMBOL and it appears on reels 1, 2, 3 and 4.\r\nOn each spin the MONEY SYMBOL takes a random value from a predefined set.",
+        "Help_02_03":"There are five types of COLLECT SYMBOLS. They appear only on reel 5.",
+        "Help_02_04":"If one or more MONEY SYMBOLS hit on the screen and any COLLECT SYMBOL hits on reel 5, one of the following features is awarded:",
+        "Help_02_05":"COLLECT - The values of all MONEY TSYMBOLS currently on the screen are added together and paid.",
+        "Help_02_06":"EXTRA CREDIT COLLECT The value from the EXTRA CREDIT COLLECT symbol is added to all MONEY SYMBOLS currently present on the screen, then all values are added together and paid.",
+        "Help_02_07":"MULTIPLIER COLLECT - The value of all MONEY SYMBOLS currently on the screen is multiplied by the value of the MULTIPLIER COLLECT SYMBOL, then all values are added together and paid.",
+
+        "Help_03_01":"EXPANDING COLLECT - All reels that contain at least one MONEY SYMBOL expand to fill the whole reel with MONEY SYMBOLS. The MONEY SYMBOLS added take a new random value, then all values are added together and paid.",
+        "Help_03_02":"RESPIN COLLECT - When the RESPIN COLLECT SYMBOL hits, all MONEY SYMBOLS and COLLECT symbols currently on the screen remain in place and all remaining cells respin to reveal a new result.\r\nAfter the respin, the value of all MONEY SYMBOLS present on the screen are added together and paid.",
+        "Help_03_03":"FREE SPINS FEATURE",
+        "Help_03_04":"Hit 3 BONUS symbols on reels 2, 3 and 4 to trigger the free spins feature.\r\nThe round starts with 8 free spins.\r\nMONEY symbols and all COLLECT features are active during the FREE SPINS round.\r\nThe FREE SPINS round has a PROGRESSIVE feature. All the COLLECT symbols, of any type, that hit during the round are collected in a trail.\r\nEvery 4th COLLECT symbol added to the trail, retriggers the feature, awards 8 more free spins and the multiplier for MONEY symbols collections increases to x2 for the first retrigger, x3 for the second retrigger and x5 for third retrigger.\r\nThe retriggered spins are played after the previous batch of free spins end. The multiplier applies to the retriggered spins.\r\nAfter the third retrigger, the feature cannot be retriggered anymore.\r\nSpecial reels are in play during the FREE SPINS round.",
+        "Help_03_05":"MAX WIN",
+        "Help_03_06":"The maximum win amount is limited to 5,000x bet in both base game and free spins. If the total win of a FREE SPINS round reaches 5,000x bet the round immediately ends, win is awarded and all remaining free spins are forfeited",
+
+        "Help_04_01":"VOLATILITY",
+        "Help_04_02":"Medium volatility games pay out steadily and the range of pays varies from low to very high\r\n\r\nAll symbols pay from left to right on selected paylines.\r\nAll wins are multiplied by bet per line.\r\nFree Spins and bonus wins are added to the payline win.\r\nAll values are expressed as actual wins in coins.\r\nOnly the highest win is paid per line.\r\nWhen winning on multiple paylines, all wins are added to the total win.\r\nFree Spins win is awarded to the player after the round completes.\r\nFree spins total win in the history contains the whole win of the cycle.",
+        "Help_04_03":"The theoretical RTP of this game is 96.54%\r\n\r\nMINIMUM BET: $0.20\r\nMAXIMUM BET: $100.00\r\nSPACE and ENTER buttons on the keyboard can be used fo start and stop the spin.\r\nMalfunction voids all pays and plays.",
+    },
+};

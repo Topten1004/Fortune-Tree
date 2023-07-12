@@ -1,0 +1,118 @@
+
+JPWord.png
+size: 464,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grand_Jp/Grand_zi_Cn
+  rotate: false
+  xy: 312, 3
+  size: 37, 52
+  orig: 56, 95
+  offset: 10, 23
+  index: -1
+Grand_Jp/Grand_zi_En
+  rotate: true
+  xy: 389, 35
+  size: 22, 73
+  orig: 56, 95
+  offset: 16, 12
+  index: -1
+Grand_Jp/Grand_zi_Tw
+  rotate: false
+  xy: 351, 4
+  size: 36, 52
+  orig: 56, 95
+  offset: 10, 23
+  index: -1
+Grand_Jp/Grand_zi_di
+  rotate: false
+  xy: 2, 16
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Major_Jp/Major_zi_Cn
+  rotate: false
+  xy: 234, 2
+  size: 37, 53
+  orig: 56, 95
+  offset: 10, 23
+  index: -1
+Major_Jp/Major_zi_En
+  rotate: true
+  xy: 388, 86
+  size: 25, 72
+  orig: 56, 95
+  offset: 15, 11
+  index: -1
+Major_Jp/Major_zi_Tw
+  rotate: false
+  xy: 350, 58
+  size: 36, 53
+  orig: 56, 95
+  offset: 10, 23
+  index: -1
+Major_Jp/Major_zi_di
+  rotate: false
+  xy: 60, 16
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Mini_Jp/Mini_Tw
+  rotate: false
+  xy: 273, 58
+  size: 37, 53
+  orig: 56, 95
+  offset: 9, 21
+  index: -1
+Mini_Jp/Mini_zi_Cn
+  rotate: false
+  xy: 273, 3
+  size: 37, 53
+  orig: 56, 95
+  offset: 9, 21
+  index: -1
+Mini_Jp/Mini_zi_En
+  rotate: true
+  xy: 389, 8
+  size: 25, 64
+  orig: 56, 95
+  offset: 15, 15
+  index: -1
+Mini_Jp/Mini_zi_di
+  rotate: false
+  xy: 118, 16
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Minor_Jp/Minor_zi_Cn
+  rotate: false
+  xy: 234, 57
+  size: 37, 54
+  orig: 56, 95
+  offset: 9, 22
+  index: -1
+Minor_Jp/Minor_zi_En
+  rotate: true
+  xy: 388, 59
+  size: 25, 72
+  orig: 56, 95
+  offset: 16, 10
+  index: -1
+Minor_Jp/Minor_zi_Tw
+  rotate: false
+  xy: 312, 57
+  size: 36, 54
+  orig: 56, 95
+  offset: 9, 22
+  index: -1
+Minor_Jp/Minor_zi_di
+  rotate: false
+  xy: 176, 16
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1

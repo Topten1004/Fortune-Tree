@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "JP_Result_Open",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 50
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 50
+        },
+        {
+          "frame": 0.5,
+          "value": 700
+        }
+      ]
+    }
+  },
+  "events": []
+}

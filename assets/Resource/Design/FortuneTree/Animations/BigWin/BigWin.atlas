@@ -1,0 +1,83 @@
+
+BigWin.png
+size: 988,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big
+  rotate: false
+  xy: 664, 264
+  size: 319, 177
+  orig: 319, 178
+  offset: 0, 1
+  index: -1
+Big_glow
+  rotate: true
+  xy: 431, 71
+  size: 370, 231
+  orig: 372, 231
+  offset: 1, 0
+  index: -1
+Win
+  rotate: true
+  xy: 243, 60
+  size: 381, 186
+  orig: 381, 186
+  offset: 0, 0
+  index: -1
+Win_glow
+  rotate: true
+  xy: 2, 8
+  size: 433, 239
+  orig: 435, 241
+  offset: 1, 1
+  index: -1
+star
+  rotate: true
+  xy: 896, 2
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+xx1
+  rotate: true
+  xy: 799, 7
+  size: 255, 95
+  orig: 255, 95
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 664, 6
+  size: 256, 133
+  orig: 256, 133
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: true
+  xy: 938, 88
+  size: 174, 48
+  orig: 174, 48
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: true
+  xy: 896, 47
+  size: 215, 34
+  orig: 215, 34
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 450, 26
+  size: 191, 43
+  orig: 191, 43
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: false
+  xy: 243, 3
+  size: 205, 55
+  orig: 205, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+BigWin_glow.png
+size: 530,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 526, 481
+  orig: 600, 600
+  offset: 37, 56
+  index: -1

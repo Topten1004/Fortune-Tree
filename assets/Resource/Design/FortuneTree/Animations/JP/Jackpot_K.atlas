@@ -1,0 +1,146 @@
+
+Jackpot_K.png
+size: 1648,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Gr_L2_000
+  rotate: false
+  xy: 1318, 167
+  size: 320, 20
+  orig: 320, 30
+  offset: 0, 5
+  index: -1
+images/Grand
+  rotate: false
+  xy: 2, 2
+  size: 612, 185
+  orig: 612, 185
+  offset: 0, 0
+  index: -1
+images/GrandJP_E
+  rotate: false
+  xy: 1314, 7
+  size: 178, 44
+  orig: 178, 56
+  offset: 0, 3
+  index: -1
+images/GrandJP_F
+  rotate: true
+  xy: 1540, 15
+  size: 132, 53
+  orig: 178, 56
+  offset: 23, 3
+  index: -1
+images/GrandJP_J
+  rotate: false
+  xy: 1096, 38
+  size: 131, 53
+  orig: 178, 56
+  offset: 23, 3
+  index: -1
+images/MINIJP_E
+  rotate: true
+  xy: 1274, 4
+  size: 87, 38
+  orig: 88, 54
+  offset: 1, 2
+  index: -1
+images/MINIJP_F
+  rotate: true
+  xy: 1229, 3
+  size: 88, 43
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+images/MINIJP_J
+  rotate: false
+  xy: 706, 41
+  size: 87, 43
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+images/MINORJP_E
+  rotate: true
+  xy: 1600, 36
+  size: 129, 46
+  orig: 129, 46
+  offset: 0, 0
+  index: -1
+images/MINORJP_F
+  rotate: false
+  xy: 616, 41
+  size: 88, 43
+  orig: 129, 46
+  offset: 20, 1
+  index: -1
+images/MINORJP_J
+  rotate: false
+  xy: 795, 41
+  size: 87, 43
+  orig: 129, 46
+  offset: 20, 1
+  index: -1
+images/Ma_L2_000
+  rotate: false
+  xy: 1318, 149
+  size: 280, 16
+  orig: 280, 30
+  offset: 0, 7
+  index: -1
+images/Major
+  rotate: false
+  xy: 616, 86
+  size: 478, 101
+  orig: 478, 102
+  offset: 0, 1
+  index: -1
+images/MajorJP_E
+  rotate: false
+  xy: 884, 5
+  size: 128, 35
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+images/MajorJP_F
+  rotate: false
+  xy: 884, 42
+  size: 103, 42
+  orig: 128, 48
+  offset: 9, 0
+  index: -1
+images/MajorJP_J
+  rotate: false
+  xy: 989, 42
+  size: 103, 42
+  orig: 128, 48
+  offset: 9, 0
+  index: -1
+images/Mi_L_000
+  rotate: false
+  xy: 1014, 24
+  size: 160, 12
+  orig: 160, 20
+  offset: 0, 4
+  index: -1
+images/Mini
+  rotate: false
+  xy: 1096, 93
+  size: 220, 94
+  orig: 220, 94
+  offset: 0, 0
+  index: -1
+images/Minor
+  rotate: false
+  xy: 1318, 53
+  size: 220, 94
+  orig: 220, 94
+  offset: 0, 0
+  index: -1
+images/Mr_L2_000
+  rotate: false
+  xy: 1014, 10
+  size: 160, 12
+  orig: 160, 20
+  offset: 0, 4
+  index: -1

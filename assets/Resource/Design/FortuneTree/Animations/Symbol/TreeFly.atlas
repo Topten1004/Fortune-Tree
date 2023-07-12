@@ -1,0 +1,118 @@
+
+TreeFly.png
+size: 484,628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/CoinIdle
+  rotate: true
+  xy: 2, 442
+  size: 184, 223
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+images/T6/lizi_000
+  rotate: true
+  xy: 321, 206
+  size: 96, 157
+  orig: 110, 160
+  offset: 0, 3
+  index: -1
+images/T6/lizi_001
+  rotate: true
+  xy: 317, 13
+  size: 90, 154
+  orig: 110, 160
+  offset: 6, 6
+  index: -1
+images/T6/lizi_002
+  rotate: true
+  xy: 2, 2
+  size: 101, 155
+  orig: 110, 160
+  offset: 0, 5
+  index: -1
+images/T6/lizi_003
+  rotate: false
+  xy: 389, 304
+  size: 91, 160
+  orig: 110, 160
+  offset: 5, 0
+  index: -1
+images/T6/lizi_004
+  rotate: true
+  xy: 2, 251
+  size: 99, 158
+  orig: 110, 160
+  offset: 10, 2
+  index: -1
+images/T6/lizi_005
+  rotate: true
+  xy: 162, 204
+  size: 110, 157
+  orig: 110, 160
+  offset: 0, 3
+  index: -1
+images/T6/lizi_006
+  rotate: true
+  xy: 2, 148
+  size: 101, 157
+  orig: 110, 160
+  offset: 6, 3
+  index: -1
+images/T6/lizi_007
+  rotate: true
+  xy: 321, 113
+  size: 91, 157
+  orig: 110, 160
+  offset: 11, 3
+  index: -1
+images/T6/lizi_008
+  rotate: true
+  xy: 159, 7
+  size: 96, 156
+  orig: 110, 160
+  offset: 1, 4
+  index: -1
+images/T6/lizi_009
+  rotate: false
+  xy: 389, 466
+  size: 93, 160
+  orig: 110, 160
+  offset: 6, 0
+  index: -1
+images/T6/lizi_010
+  rotate: true
+  xy: 2, 352
+  size: 88, 160
+  orig: 110, 160
+  offset: 11, 0
+  index: -1
+images/T6/lizi_011
+  rotate: true
+  xy: 161, 105
+  size: 97, 156
+  orig: 110, 160
+  offset: 0, 4
+  index: -1
+images/T6/lizi_012
+  rotate: true
+  xy: 227, 518
+  size: 108, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+images/T6/lizi_013
+  rotate: true
+  xy: 164, 316
+  size: 99, 159
+  orig: 110, 160
+  offset: 6, 1
+  index: -1
+images/T6/lizi_014
+  rotate: true
+  xy: 227, 417
+  size: 99, 160
+  orig: 110, 160
+  offset: 7, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+MegaWin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mega
+  rotate: false
+  xy: 2, 274
+  size: 548, 229
+  orig: 548, 230
+  offset: 0, 1
+  index: -1
+Win
+  rotate: false
+  xy: 552, 316
+  size: 382, 187
+  orig: 382, 187
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 330, 270
+  orig: 330, 270
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 631, 125
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+xx1
+  rotate: false
+  xy: 334, 25
+  size: 292, 109
+  orig: 292, 109
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 334, 136
+  size: 295, 136
+  orig: 295, 136
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 631, 218
+  size: 200, 55
+  orig: 200, 55
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 552, 275
+  size: 246, 39
+  orig: 246, 39
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 631, 167
+  size: 219, 49
+  orig: 219, 49
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: true
+  xy: 936, 268
+  size: 235, 62
+  orig: 235, 62
+  offset: 0, 0
+  index: -1

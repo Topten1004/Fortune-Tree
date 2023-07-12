@@ -1,0 +1,19 @@
+﻿info face="Tahoma" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=30 base=27 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="total_bet.png"
+chars count=15
+char id=44   x=117   y=0     width=6     height=30    xoffset=0     yoffset=0     xadvance=4     page=0  chnl=15
+char id=48   x=37    y=0     width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=49   x=93    y=31    width=13    height=30    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15
+char id=50   x=53    y=0     width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=51   x=69    y=0     width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=52   x=20    y=0     width=16    height=30    xoffset=0     yoffset=0     xadvance=14    page=0  chnl=15
+char id=53   x=48    y=31    width=14    height=30    xoffset=0     yoffset=0     xadvance=12    page=0  chnl=15
+char id=54   x=85    y=0     width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=55   x=63    y=31    width=14    height=30    xoffset=0     yoffset=0     xadvance=12    page=0  chnl=15
+char id=56   x=101   y=0     width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=57   x=0     y=31    width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=66   x=78    y=31    width=14    height=30    xoffset=0     yoffset=0     xadvance=12    page=0  chnl=15
+char id=75   x=16    y=31    width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=77   x=0     y=0     width=19    height=30    xoffset=0     yoffset=0     xadvance=17    page=0  chnl=15
+char id=84   x=32    y=31    width=15    height=30    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15

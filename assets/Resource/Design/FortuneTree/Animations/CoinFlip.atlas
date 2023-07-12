@@ -1,0 +1,748 @@
+
+CoinFlip.png
+size: 1802,1310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: true
+  xy: 1046, 11
+  size: 129, 134
+  orig: 131, 136
+  offset: 1, 1
+  index: -1
+Bag_di/Bag_di_00
+  rotate: false
+  xy: 1490, 395
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_01
+  rotate: false
+  xy: 1706, 519
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_02
+  rotate: false
+  xy: 1580, 395
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_03
+  rotate: false
+  xy: 1670, 416
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_04
+  rotate: false
+  xy: 1670, 326
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_05
+  rotate: false
+  xy: 1400, 305
+  size: 88, 87
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_06
+  rotate: false
+  xy: 1670, 237
+  size: 88, 87
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_07
+  rotate: false
+  xy: 1297, 293
+  size: 88, 87
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_08
+  rotate: true
+  xy: 1335, 203
+  size: 88, 87
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_09
+  rotate: false
+  xy: 1285, 114
+  size: 88, 87
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_10
+  rotate: false
+  xy: 1490, 305
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_11
+  rotate: false
+  xy: 1580, 305
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_12
+  rotate: false
+  xy: 1245, 203
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 1
+  index: -1
+Bag_di/Bag_di_13
+  rotate: false
+  xy: 1400, 394
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_14
+  rotate: false
+  xy: 1424, 215
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_15
+  rotate: false
+  xy: 1514, 215
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Bag_di/Bag_di_16
+  rotate: true
+  xy: 1285, 25
+  size: 87, 88
+  orig: 88, 89
+  offset: 1, 0
+  index: -1
+Bag_di/Bag_di_17
+  rotate: false
+  xy: 1375, 113
+  size: 87, 88
+  orig: 88, 89
+  offset: 1, 0
+  index: -1
+Bag_di/Bag_di_18
+  rotate: false
+  xy: 1375, 23
+  size: 87, 88
+  orig: 88, 89
+  offset: 1, 0
+  index: -1
+Bag_di/Bag_di_19
+  rotate: false
+  xy: 1464, 125
+  size: 87, 88
+  orig: 88, 89
+  offset: 1, 0
+  index: -1
+Bag_glow/Bag_glow_00
+  rotate: true
+  xy: 1623, 768
+  size: 105, 172
+  orig: 109, 199
+  offset: 1, 25
+  index: -1
+Bag_glow/Bag_glow_01
+  rotate: true
+  xy: 630, 662
+  size: 106, 169
+  orig: 109, 199
+  offset: 0, 25
+  index: -1
+Bag_glow/Bag_glow_02
+  rotate: false
+  xy: 469, 942
+  size: 108, 175
+  orig: 109, 199
+  offset: 1, 22
+  index: -1
+Bag_glow/Bag_glow_03
+  rotate: false
+  xy: 579, 942
+  size: 104, 175
+  orig: 109, 199
+  offset: 5, 18
+  index: -1
+Bag_glow/Bag_glow_04
+  rotate: false
+  xy: 192, 727
+  size: 103, 180
+  orig: 109, 199
+  offset: 5, 16
+  index: -1
+Bag_glow/Bag_glow_05
+  rotate: false
+  xy: 192, 909
+  size: 102, 197
+  orig: 109, 199
+  offset: 5, 2
+  index: -1
+Bag_glow/Bag_glow_06
+  rotate: false
+  xy: 685, 930
+  size: 95, 189
+  orig: 109, 199
+  offset: 4, 0
+  index: -1
+Bag_glow/Bag_glow_07
+  rotate: false
+  xy: 178, 536
+  size: 95, 188
+  orig: 109, 199
+  offset: 3, 3
+  index: -1
+Bag_glow/Bag_glow_08
+  rotate: true
+  xy: 1623, 1040
+  size: 95, 177
+  orig: 109, 199
+  offset: 3, 12
+  index: -1
+Bag_glow/Bag_glow_09
+  rotate: false
+  xy: 175, 202
+  size: 98, 171
+  orig: 109, 199
+  offset: 3, 18
+  index: -1
+Bag_glow/Bag_glow_10
+  rotate: false
+  xy: 175, 31
+  size: 98, 169
+  orig: 109, 199
+  offset: 2, 20
+  index: -1
+Bag_glow/Bag_glow_11
+  rotate: false
+  xy: 930, 462
+  size: 98, 169
+  orig: 109, 199
+  offset: 2, 20
+  index: -1
+Bag_glow/Bag_glow_12
+  rotate: true
+  xy: 464, 673
+  size: 101, 164
+  orig: 109, 199
+  offset: 2, 26
+  index: -1
+Bag_glow/Bag_glow_13
+  rotate: false
+  xy: 172, 375
+  size: 101, 159
+  orig: 109, 199
+  offset: 2, 31
+  index: -1
+Bag_glow/Bag_glow_14
+  rotate: false
+  xy: 1088, 302
+  size: 104, 158
+  orig: 109, 199
+  offset: 2, 32
+  index: -1
+Bag_glow/Bag_glow_15
+  rotate: true
+  xy: 297, 675
+  size: 101, 165
+  orig: 109, 199
+  offset: 2, 29
+  index: -1
+Bag_glow/Bag_glow_16
+  rotate: false
+  xy: 599, 2
+  size: 99, 167
+  orig: 109, 199
+  offset: 2, 28
+  index: -1
+Bag_glow/Bag_glow_17
+  rotate: false
+  xy: 1030, 462
+  size: 97, 171
+  orig: 109, 199
+  offset: 2, 26
+  index: -1
+Bag_glow/Bag_glow_18
+  rotate: true
+  xy: 874, 41
+  size: 99, 170
+  orig: 109, 199
+  offset: 2, 25
+  index: -1
+Bag_glow/Bag_glow_19
+  rotate: true
+  xy: 700, 48
+  size: 100, 172
+  orig: 109, 199
+  offset: 2, 26
+  index: -1
+Bag_shine_00
+  rotate: false
+  xy: 2, 1108
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Grand_Jp/Grand_di
+  rotate: false
+  xy: 2, 917
+  size: 188, 189
+  orig: 188, 189
+  offset: 0, 0
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_00
+  rotate: false
+  xy: 1464, 43
+  size: 80, 80
+  orig: 173, 173
+  offset: 46, 46
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_01
+  rotate: false
+  xy: 1182, 39
+  size: 101, 101
+  orig: 173, 173
+  offset: 36, 36
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_02
+  rotate: false
+  xy: 1621, 1137
+  size: 171, 171
+  orig: 173, 173
+  offset: 2, 2
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_03
+  rotate: false
+  xy: 921, 1135
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_04
+  rotate: false
+  xy: 465, 776
+  size: 164, 164
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_05
+  rotate: false
+  xy: 631, 770
+  size: 158, 158
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_06
+  rotate: false
+  xy: 801, 633
+  size: 156, 156
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_07
+  rotate: false
+  xy: 438, 20
+  size: 159, 159
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_08
+  rotate: false
+  xy: 605, 498
+  size: 162, 162
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_09
+  rotate: false
+  xy: 1623, 875
+  size: 163, 163
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_10
+  rotate: false
+  xy: 297, 778
+  size: 166, 166
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_11
+  rotate: false
+  xy: 1286, 968
+  size: 165, 165
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_12
+  rotate: false
+  xy: 275, 183
+  size: 161, 161
+  orig: 173, 173
+  offset: 10, 10
+  index: -1
+Grand_Jp/Grand_glow/Grand_glow_13
+  rotate: false
+  xy: 1291, 643
+  size: 157, 157
+  orig: 173, 173
+  offset: 9, 9
+  index: -1
+Grand_Jp/Grand_ren
+  rotate: false
+  xy: 2, 356
+  size: 168, 183
+  orig: 168, 188
+  offset: 0, 0
+  index: -1
+Major_Jp/Major_di
+  rotate: false
+  xy: 204, 1119
+  size: 188, 189
+  orig: 190, 191
+  offset: 1, 1
+  index: -1
+Major_Jp/Major_glow/Major_glow_00
+  rotate: false
+  xy: 1553, 133
+  size: 80, 80
+  orig: 173, 173
+  offset: 46, 46
+  index: -1
+Major_Jp/Major_glow/Major_glow_01
+  rotate: false
+  xy: 1603, 506
+  size: 101, 101
+  orig: 173, 173
+  offset: 36, 36
+  index: -1
+Major_Jp/Major_glow/Major_glow_02
+  rotate: false
+  xy: 2, 183
+  size: 171, 171
+  orig: 173, 173
+  offset: 2, 2
+  index: -1
+Major_Jp/Major_glow/Major_glow_03
+  rotate: false
+  xy: 1096, 1135
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Major_Jp/Major_glow/Major_glow_04
+  rotate: false
+  xy: 1125, 801
+  size: 164, 164
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Major_Jp/Major_glow/Major_glow_05
+  rotate: false
+  xy: 928, 302
+  size: 158, 158
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Major_Jp/Major_glow/Major_glow_06
+  rotate: false
+  xy: 1129, 484
+  size: 156, 156
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Major_Jp/Major_glow/Major_glow_07
+  rotate: false
+  xy: 769, 472
+  size: 159, 159
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Major_Jp/Major_glow/Major_glow_08
+  rotate: false
+  xy: 275, 346
+  size: 162, 162
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Major_Jp/Major_glow/Major_glow_09
+  rotate: false
+  xy: 959, 635
+  size: 163, 163
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Major_Jp/Major_glow/Major_glow_10
+  rotate: false
+  xy: 782, 958
+  size: 166, 166
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Major_Jp/Major_glow/Major_glow_11
+  rotate: false
+  xy: 1453, 968
+  size: 165, 165
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Major_Jp/Major_glow/Major_glow_12
+  rotate: false
+  xy: 438, 181
+  size: 161, 161
+  orig: 173, 173
+  offset: 10, 10
+  index: -1
+Major_Jp/Major_glow/Major_glow_13
+  rotate: false
+  xy: 1450, 643
+  size: 157, 157
+  orig: 173, 173
+  offset: 9, 9
+  index: -1
+Major_Jp/Major_ren
+  rotate: false
+  xy: 754, 1126
+  size: 165, 182
+  orig: 166, 183
+  offset: 0, 0
+  index: -1
+Mini_Jp/Mini_di
+  rotate: false
+  xy: 2, 726
+  size: 188, 189
+  orig: 188, 189
+  offset: 0, 0
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_00
+  rotate: false
+  xy: 1635, 155
+  size: 80, 80
+  orig: 173, 173
+  offset: 46, 46
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_01
+  rotate: false
+  xy: 1194, 381
+  size: 101, 101
+  orig: 173, 173
+  offset: 36, 36
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_02
+  rotate: false
+  xy: 2, 10
+  size: 171, 171
+  orig: 173, 173
+  offset: 2, 2
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_03
+  rotate: false
+  xy: 1271, 1135
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_04
+  rotate: false
+  xy: 1291, 802
+  size: 164, 164
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_05
+  rotate: false
+  xy: 925, 142
+  size: 158, 158
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_06
+  rotate: false
+  xy: 1287, 485
+  size: 156, 156
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_07
+  rotate: false
+  xy: 767, 311
+  size: 159, 159
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_08
+  rotate: false
+  xy: 439, 344
+  size: 162, 162
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_09
+  rotate: false
+  xy: 275, 510
+  size: 163, 163
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_10
+  rotate: false
+  xy: 950, 967
+  size: 166, 166
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_11
+  rotate: false
+  xy: 791, 791
+  size: 165, 165
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_12
+  rotate: false
+  xy: 601, 171
+  size: 161, 161
+  orig: 173, 173
+  offset: 10, 10
+  index: -1
+Mini_Jp/Mini_glow/Mini_glow_13
+  rotate: false
+  xy: 1609, 609
+  size: 157, 157
+  orig: 173, 173
+  offset: 9, 9
+  index: -1
+Mini_Jp/Mini_ren
+  rotate: false
+  xy: 584, 1121
+  size: 168, 187
+  orig: 172, 190
+  offset: 0, 0
+  index: -1
+Minor_Jp/Minor_di
+  rotate: false
+  xy: 394, 1119
+  size: 188, 189
+  orig: 188, 189
+  offset: 0, 0
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_00
+  rotate: false
+  xy: 1717, 155
+  size: 80, 80
+  orig: 173, 173
+  offset: 46, 46
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_01
+  rotate: false
+  xy: 1297, 382
+  size: 101, 101
+  orig: 173, 173
+  offset: 36, 36
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_02
+  rotate: false
+  xy: 296, 946
+  size: 171, 171
+  orig: 173, 173
+  offset: 2, 2
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_03
+  rotate: false
+  xy: 1446, 1135
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_04
+  rotate: false
+  xy: 1457, 802
+  size: 164, 164
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_05
+  rotate: false
+  xy: 1085, 142
+  size: 158, 158
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_06
+  rotate: false
+  xy: 1445, 485
+  size: 156, 156
+  orig: 173, 173
+  offset: 8, 8
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_07
+  rotate: false
+  xy: 764, 150
+  size: 159, 159
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_08
+  rotate: false
+  xy: 603, 334
+  size: 162, 162
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_09
+  rotate: false
+  xy: 440, 508
+  size: 163, 163
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_10
+  rotate: false
+  xy: 1118, 967
+  size: 166, 166
+  orig: 173, 173
+  offset: 5, 5
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_11
+  rotate: false
+  xy: 958, 800
+  size: 165, 165
+  orig: 173, 173
+  offset: 6, 6
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_12
+  rotate: false
+  xy: 275, 20
+  size: 161, 161
+  orig: 173, 173
+  offset: 10, 10
+  index: -1
+Minor_Jp/Minor_glow/Minor_glow_13
+  rotate: false
+  xy: 1125, 642
+  size: 157, 157
+  orig: 173, 173
+  offset: 9, 9
+  index: -1
+Minor_Jp/Minor_ren
+  rotate: false
+  xy: 2, 541
+  size: 174, 183
+  orig: 175, 184
+  offset: 0, 0
+  index: -1

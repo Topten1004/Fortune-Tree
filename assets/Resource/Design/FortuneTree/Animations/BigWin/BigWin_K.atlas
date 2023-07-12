@@ -1,0 +1,20 @@
+
+BigWin_K.png
+size: 1010,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 30
+  size: 1006, 216
+  orig: 1100, 300
+  offset: 47, 42
+  index: -1
+liang
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
